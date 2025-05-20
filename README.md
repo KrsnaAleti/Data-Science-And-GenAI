@@ -1,2 +1,2 @@
-# Data-Science-And-GENAI
-Ultimate Data Science And GENAI Masters
+# Data-Science-And-GenAI
+Ultimate Data Science And GenAI Masters
